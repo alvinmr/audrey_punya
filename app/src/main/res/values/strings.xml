@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">audrey_recyclerview</string>
+
+    <string-array name="film">
+        <item>Shawshank Redemption</item>
+        <item>The Matrix</item>
+        <item>Interstellar</item>
+        <item>12 Monkeys</item>
+        <item>The Batman</item>
+        <item>Joker</item>
+        <item>Spiderman</item>
+        <item>Finding Nemo</item>
+        <item>Toy Story</item>
+        <item>Dune</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Nomor 1</item>
+        <item>Nomor 2</item>
+        <item>Nomor 3</item>
+        <item>Nomor 4</item>
+        <item>Nomor 5</item>
+        <item>Nomor 6</item>
+        <item>Nomor 7</item>
+        <item>Nomor 8</item>
+        <item>Nomor 9</item>
+        <item>Nomor 10</item>
+    </string-array>
+</resources>
